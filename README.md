@@ -1,15 +1,16 @@
 # Insurance Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap]![image](https://user-images.githubusercontent.com/87440737/195431347-22084b76-9061-4751-8724-de7df1c7bfce.png)
+
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/dashboard.png?raw=true)
+![dashboard snap]![image](https://user-images.githubusercontent.com/87440737/195431522-6694dcd9-6256-4461-9ca9-a1e19151ba97.png)
 ### Policy Record
-![invoice snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policyrecord.png?raw=true)
+![invoice snap]![image](https://user-images.githubusercontent.com/87440737/195431800-061df65e-908a-41d1-946f-979a14df8086.png))
 ### Policy 
-![doctor snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policy.png?raw=true)
+![doctor snap]![image](https://user-images.githubusercontent.com/87440737/195431958-fd29c656-ffe0-4180-a534-26d109c20c4c.png)
 ---
 ## Functions
 ### Admin
@@ -49,24 +50,6 @@ py manage.py runserver
 http://127.0.0.1:8000/
 ```
 
-## CHANGES REQUIRED FOR CONTACT US PAGE
-- In settins.py file, You have to give your email and password
-```
-EMAIL_HOST_USER = 'youremail@gmail.com'
-EMAIL_HOST_PASSWORD = 'your email password'
-EMAIL_RECEIVING_USER = 'youremail@gmail.com'
-```
-- Login to gmail through host email id in your browser and open following link and turn it ON
-```
-https://myaccount.google.com/lesssecureapps
 ```
 
 
-## Disclaimer
-This project is developed for demo purpose and it's not supposed to be used in real application.
-
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoderonline)
-#
