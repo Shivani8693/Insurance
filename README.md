@@ -1,16 +1,16 @@
 # Insurance Management
 
 ---
-## screenshots
+
 ### Homepage
-![homepage snap]![image](https://user-images.githubusercontent.com/87440737/195431347-22084b76-9061-4751-8724-de7df1c7bfce.png)
+[image](https://user-images.githubusercontent.com/87440737/195431347-22084b76-9061-4751-8724-de7df1c7bfce.png)
 
 ### Admin Dashboard
-![dashboard snap]![image](https://user-images.githubusercontent.com/87440737/195431522-6694dcd9-6256-4461-9ca9-a1e19151ba97.png)
+[image](https://user-images.githubusercontent.com/87440737/195431522-6694dcd9-6256-4461-9ca9-a1e19151ba97.png)
 ### Policy Record
-![invoice snap]![image](https://user-images.githubusercontent.com/87440737/195431800-061df65e-908a-41d1-946f-979a14df8086.png))
+[image](https://user-images.githubusercontent.com/87440737/195431800-061df65e-908a-41d1-946f-979a14df8086.png))
 ### Policy 
-![doctor snap]![image](https://user-images.githubusercontent.com/87440737/195431958-fd29c656-ffe0-4180-a534-26d109c20c4c.png)
+[image](https://user-images.githubusercontent.com/87440737/195431958-fd29c656-ffe0-4180-a534-26d109c20c4c.png)
 ---
 ## Functions
 ### Admin
